@@ -7,7 +7,7 @@
 Welcome to the Line Follower Bot project! This repository contains the source code and documentation for a robot that follows a line on the ground using analog sensors.
 
 ![Line Follower Bot](https://github.com/MrHobbist/Line-follower-1.0/blob/main/IMG_20231130_214423691_BURST000_COVER~2.jpg)
-(https://github.com/MrHobbist/Line-follower-1.0/blob/main/IMG_20231130_214330069~2.jpg)
+[](https://github.com/MrHobbist/Line-follower-1.0/blob/main/IMG_20231130_214330069~2.jpg)
 ## Table of Contents
 
 - [Features](#features)
