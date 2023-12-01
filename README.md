@@ -27,7 +27,7 @@ Welcome to the Line Follower Bot project! This repository contains the source co
 
 ## Requirements
 
-- Hardware requirements (e.g., microcontroller, motor drivers, sensors, resistors, button)
+- Hardware requirements (e.g., microcontroller, motor drivers, sensors, resistors, button, LM7805 voltage regulator)
 - Software requirements (e.g., Arduino IDE)
 - caster wheel
 - battery
