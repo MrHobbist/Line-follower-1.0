@@ -50,6 +50,8 @@ Welcome to the Line Follower Bot project! This repository contains the source co
 
 ## Circuit Diagram
 
+![circuit diagram]()
+
 ## Usage
 
 - After uploading the code press the calibiration button. During caliberation the bot will read the minimum and maximum values(please keep the bot such that the sensor passes through black and white surface). During caliberation bot will be rotating clockwise.
