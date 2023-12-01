@@ -64,4 +64,5 @@ Welcome to the Line Follower Bot project! This repository contains the source co
 - AnalogPins are from A1 to A7.
 - Caliberation button is D11 by default (please remember to change this according to your setup).
 - Actual run button is D12 by default (please remember to change this according to your setup).
+- Change kp and kd values to get more accuracy(trial and error method).
 ---
