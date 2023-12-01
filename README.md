@@ -38,8 +38,8 @@ Welcome to the Line Follower Bot project! This repository contains the source co
 1. Clone this repository:
 
     ```
-    git clone https://github.com/your-username/line-follower-bot.git
-    cd line-follower-bot
+    git clone https://github.com/MrHobbist/Line-follower-1.0.git
+    cd Line-follower-1.0
     ```
 
 2. Install dependencies:
