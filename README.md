@@ -50,7 +50,7 @@ Welcome to the Line Follower Bot project! This repository contains the source co
 
 ## Circuit Diagram
 
-![circuit diagram]()
+![circuit diagram](https://github.com/MrHobbist/Line-follower-1.0/blob/main/Screenshot%202023-12-01%20153352.png)
 
 ## Usage
 
